@@ -1,0 +1,69 @@
+Q1:
+Brazil   Brasília
+China   Peking
+India   New Delhi
+Japan   Tokyo
+Mexico   Ciudad de México
+Philippines   Manila
+Russian Federation   Moscow
+United States   Washington
+
+Q2:
+United States
+
+Q3:
+Canada
+Seychelles
+Vanuatu
+
+Q4:
+Anguilla
+American Samoa
+Antigua and Barbuda
+Australia
+Belize
+Bermuda
+Barbados
+Cocos (Keeling) Islands
+Christmas Island
+Cayman Islands
+Falkland Islands
+United Kingdom
+Gibraltar
+Guam
+Hong Kong
+Ireland
+Saint Kitts and Nevis
+Saint Lucia
+Lesotho
+Marshall Islands
+Malta
+Northern Mariana Islands
+Montserrat
+Norfolk Island
+Niue
+Nauru
+New Zealand
+Palau
+Saint Helena
+Turks and Caicos Islands
+Tokelau
+Tonga
+Tuvalu
+United States Minor Outlying Islands
+United States
+Saint Vincent and the Grenadines
+Virgin Islands, British
+Virgin Islands, U.S.
+Samoa
+South Africa
+Zimbabwe
+
+Q5:
+Africa  13525431
+Antarctica      0
+Asia    72647562
+Europe  15871186
+North America   13053864
+Oceania         1085755
+South America   24698571
